@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to My Page! 👋
+I am a Data Scientist, Problem solver with a passion for turning data into actionable insights. I have 1.5 years of experience as a Data Scientist with CW Mining Consultants Pty. Ltd. I completed the Master of Data Science Program at The University of Queensland.
+- 🔭 I’m currently working on a few projects with Hyperdim Innovation. There, we are developing websites, Web Applications and some AI Tools.
+- 🌱 I’m currently learning Full Stack Web Development and brushing up on Power BI and Business Intelligence.
+
 
 <!--
 **dulanianu/dulanianu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
